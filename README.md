@@ -1,4 +1,4 @@
-# Scarpper
+# Scrapper
 
 This application scraps the data and performs the CRUD ops in the database using fast API. 
 
