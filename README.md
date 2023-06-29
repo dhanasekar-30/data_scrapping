@@ -9,4 +9,5 @@ This application scraps the data and performs the CRUD ops in the database using
    pip install -r requirement.txt
 
 2. Execute the command to launch fastAPI
+   
    uvicorn main:app --reload 
