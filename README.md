@@ -6,7 +6,7 @@ This application scraps the data and performs the CRUD ops in the database using
 
 1. Install required libraries using
 
-   pip install -r requirement.txt
+   pip install -r requirements.txt
 
 2. Execute the command to launch fastAPI
    
